@@ -1,0 +1,9 @@
+streamlit
+pandas
+python-dotenv
+openai>=1.0.0
+tiktoken
+chromadb          # (옵션) RAG 사용 시
+langchain
+langchain-community
+langchain-openai
